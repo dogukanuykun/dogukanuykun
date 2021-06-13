@@ -1,8 +1,7 @@
 ### Hello, I'm Doğukan👋
 
 - 🔭 I’m currently working on HRMS Project
-- 🌱 I’m currently learning .NET
-- 👯 I’m looking to collaborate on 
+- 🌱 I’m currently learning .NET 
 - 🤔 I’m looking for help with Redux
 - 💬 Ask me about Java/Spring
 - 📫 How to reach me: [Instagram -@dogukannykn](https://www.instagram.com/dogukannykn/)
