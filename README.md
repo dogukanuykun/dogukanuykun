@@ -1,7 +1,7 @@
 ### Hello, I'm Doğukan👋
 
 - 🔭 I’m currently working on HRMS Project
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning .NET
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Redux
 - 💬 Ask me about Java/Spring
