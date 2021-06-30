@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on HRMS Project
 - 🌱 I’m currently learning .NET 
-- 🤔 I’m looking for help with Redux
+- 🤔 I’m looking for help with ASP.NET
 - 💬 Ask me about Java/Spring
 - 📫 How to reach me: [Instagram -@dogukannykn](https://www.instagram.com/dogukannykn/)
 - 😄 Pronouns: He/His
