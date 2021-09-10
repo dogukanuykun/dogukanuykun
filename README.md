@@ -1,8 +1,8 @@
 ### Hello, I'm Doğukan👋
 
 - 🔭 I’m currently working on E-Commerce Project
-- 🌱 I’m currently learning React 
-- 🤔 I’m looking for help with ASP.NET
+- 🌱 I’m currently learning Node.js
+- 🤔 I’m looking for help with Passport.js
 - 💬 Ask me about Java/Spring
 - 📫 How to reach me: [Instagram -@dogukannykn](https://www.instagram.com/dogukannykn/)
 - 😄 Pronouns: He/His
