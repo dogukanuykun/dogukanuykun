@@ -1,3 +1,15 @@
-### Hello, I'm Doğukan👋
+## Hello 👋
+
+### Electrical & Electronics Engineering Student at the Ankara University
+### Pass
 
 <img src="https://github-readme-stats.vercel.app/api?username=dogukanuykun&&show_icons=true&title_color=fff54f&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+**Languages and Tools:**  
+
+[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>](https://www.python.org/)
+[<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/git.png?raw=true" ></code>](https://git-scm.com/)
+[<code><img height="30" src="https://raw.githubusercontent.com/gahogg/gahogg/master/keras.png"></code>](https://keras.io/)
+[<code><img height="30" src="https://raw.githubusercontent.com/gahogg/gahogg/master/tensorflow.png"></code>](https://www.tensorflow.org/)
+[<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/databricks.png?raw=true"></code>](https://databricks.com/)
+[<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/sql.jpg?raw=true"></code>](https://en.wikipedia.org/wiki/SQL)
