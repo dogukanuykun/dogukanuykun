@@ -12,7 +12,4 @@
 [<code><img height="30" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png"></code>](https://cloud.google.com/)
 [<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/spark.png?raw=true"></code>](https://spark.apache.org/)
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=dogukanuykun&&show_icons=true&title_color=fff54f&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
+![Doğukan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogukanuykun&show_icons=true&theme=radical)
