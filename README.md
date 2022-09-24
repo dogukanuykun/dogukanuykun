@@ -13,6 +13,4 @@
 [<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/spark.png?raw=true"></code>](https://spark.apache.org/)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=dogukanuykun&&show_icons=true&title_color=fff54f&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 
