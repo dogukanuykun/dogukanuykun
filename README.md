@@ -1,7 +1,7 @@
 # Welcome! 👋
 
 ### Electrical & Electronics Engineering Student at Ankara University
-### Data Science and Machine Learning enthusiast
+### Data Science & Machine Learning enthusiast
 
 **Languages and Tools:**  
 
