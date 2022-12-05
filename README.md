@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan Uykun</h1>
 <h3 align="center">Jr. Machine Learning Engineer</h3>
 
-<img align="rigt" alt="Coding" width="400" src="https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
+<img align="rigt" alt="Coding" width="300" src="https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
 
 
