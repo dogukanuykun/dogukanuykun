@@ -1,7 +1,6 @@
-# Welcome! 👋
-
-### Electrical & Electronics Engineering Student at Ankara University
-### Data Science & Machine Learning enthusiast
+# Hi, I'm Doğukan👋
+## Electronics Engineer,
+### Machine Learning enthusiast
 
 **Languages and Tools:**  
 
