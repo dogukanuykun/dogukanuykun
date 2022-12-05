@@ -3,8 +3,6 @@
 
 <img align="rigt" alt="Coding" width="400" src="https://raw.githubusercontent.com/Cryptobyte/Cryptobyte/master/images/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dogukanuykun&label=Profile%20views&color=0e75b6&style=flat" alt="dogukanuykun" /> </p>
-
 - 🌱 I’m currently learning **MLOps**
 
 - 💬 Ask me about **Computer Vision & NLP**
