@@ -14,4 +14,6 @@
 [<code><img height="30" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png"></code>](https://cloud.google.com/)
 [<code><img height="30" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"></code>](https://www.docker.com/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogukanuykun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanuykun&theme=tokyonight)
+
+![Doğukan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogukanuykun&theme=dark&show_icons=true)
