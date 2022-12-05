@@ -1,6 +1,6 @@
 # Hi, I'm Doğukan👋
-## Electronics Engineer,
-### Machine Learning enthusiast
+
+## Electronics Engineer & Machine Learning enthusiast
 
 **Languages and Tools:**  
 
